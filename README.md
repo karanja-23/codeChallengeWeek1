@@ -9,6 +9,8 @@
 ### 1. Student Grade Generator
 
 ##### It prompts a user to input students'marks(0-100),  Then provides their grade as output.
+##### Live link 
+https://karanja-23.github.io/Student-Grade-Generator/
 
 ### 2. Speed detector
 
